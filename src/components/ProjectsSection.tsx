@@ -24,10 +24,10 @@ const ProjectsSection = () => {
       technologies: ["React","CSS", "Firebase Authentication", "TMDB API integration"],
       links: {
         github: "https://github.com/chrisprince-ic",
-        live: "#"
+        live: "https://netflix-three-sigma.vercel.app/"
       },
       featured: true,
-      image: "https://placehold.co/800x500/112240/64FFDA?text=E-commerce"
+      image: "https://placehold.co/800x500/112240/64FFDA?text=NetFlix-Clone"
     },
     {
       title: "YouTube Clone",
@@ -35,10 +35,10 @@ const ProjectsSection = () => {
       technologies: ["React", "CSS", "YouTube Data API integration"],
       links: {
         github: "https://github.com/chrisprince-ic",
-        live: "#"
+        live: "https://youtube-clone-five-flame.vercel.app/"
       },
       featured: true,
-      image: "https://placehold.co/800x500/112240/64FFDA?text=Dashboard"
+      image: "https://placehold.co/800x500/112240/64FFDA?text=YouTube"
     },
     {
       title: "Task Manager App",
@@ -49,7 +49,7 @@ const ProjectsSection = () => {
         live: "#"
       },
       featured: true,
-      image: "https://placehold.co/800x500/112240/64FFDA?text=Podcast"
+      image: "https://placehold.co/800x500/112240/64FFDA?text=Task-Manager"
     }
   ];
 
