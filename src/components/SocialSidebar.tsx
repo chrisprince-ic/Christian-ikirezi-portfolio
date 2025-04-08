@@ -23,7 +23,7 @@ const SocialSidebar = () => {
             </li>
             <li>
               <a 
-                href="#" 
+                href="https://www.linkedin.com/in/christian-ikirezi-8b395021a/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-slate-light hover:text-teal transform hover:-translate-y-1 transition-all duration-200 block"
