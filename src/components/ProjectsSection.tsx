@@ -23,7 +23,7 @@ const ProjectsSection = () => {
       description: "Built a high-performance React + Next.js storefront with Stripe integration and server-side rendering for SEO.",
       technologies: ["React", "Next.js", "Stripe", "Tailwind CSS", "SSR"],
       links: {
-        github: "#",
+        github: "https://github.com/chrisprince-ic",
         live: "#"
       },
       featured: true,
@@ -34,7 +34,7 @@ const ProjectsSection = () => {
       description: "Created a data-driven dashboard for client analytics using Tailwind CSS and React Charts, deployed on AWS Amplify.",
       technologies: ["React", "Tailwind CSS", "AWS Amplify", "React Charts", "REST API"],
       links: {
-        github: "#",
+        github: "https://github.com/chrisprince-ic",
         live: "#"
       },
       featured: true,
@@ -45,7 +45,7 @@ const ProjectsSection = () => {
       description: "Designed a custom podcast platform with dynamic routing, episode streaming, and user feedback collection.",
       technologies: ["React", "Next.js", "AWS S3", "Tailwind CSS", "Node.js"],
       links: {
-        github: "#",
+        github: "https://github.com/chrisprince-ic",
         live: "#"
       },
       featured: true,
@@ -59,7 +59,7 @@ const ProjectsSection = () => {
       description: "A React Native bridge for seamless integration with web services. Includes authentication, push notifications, and offline capabilities.",
       technologies: ["React Native", "Redux", "Firebase"],
       links: {
-        github: "#",
+        github: "https://github.com/chrisprince-ic",
         live: "#"
       },
     },
@@ -68,7 +68,7 @@ const ProjectsSection = () => {
       description: "Interactive learning platform with course management, progress tracking, and integrated assessments.",
       technologies: ["React", "Node.js", "MongoDB", "Express"],
       links: {
-        github: "#",
+        github: "https://github.com/chrisprince-ic",
         live: "#"
       },
     },
@@ -77,7 +77,7 @@ const ProjectsSection = () => {
       description: "Personal health monitoring application with data visualization, goal setting, and achievement tracking.",
       technologies: ["React", "TypeScript", "Chart.js", "Tailwind"],
       links: {
-        github: "#",
+        github: "https://github.com/chrisprince-ic",
         live: "#"
       },
     },
@@ -86,7 +86,7 @@ const ProjectsSection = () => {
       description: "Culinary application that suggests recipes based on available ingredients with filtering options.",
       technologies: ["React", "API Integration", "Styled Components"],
       links: {
-        github: "#",
+        github: "https://github.com/chrisprince-ic",
         live: "#"
       },
     },
@@ -95,7 +95,7 @@ const ProjectsSection = () => {
       description: "Property browsing platform with advanced filtering, virtual tours, and agent connectivity.",
       technologies: ["Next.js", "MongoDB", "Google Maps API"],
       links: {
-        github: "#",
+        github: "https://github.com/chrisprince-ic",
         live: "#"
       },
     },
@@ -104,7 +104,7 @@ const ProjectsSection = () => {
       description: "Location-based weather forecasting with historical data comparison and weather alerts.",
       technologies: ["React", "Weather API", "Recharts"],
       links: {
-        github: "#",
+        github: "https://github.com/chrisprince-ic",
         live: "#"
       },
     }
