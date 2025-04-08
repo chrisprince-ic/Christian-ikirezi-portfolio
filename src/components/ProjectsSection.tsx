@@ -19,9 +19,9 @@ import {
 const ProjectsSection = () => {
   const projects = [
     {
-      title: "E-commerce Storefront",
-      description: "Built a high-performance React + Next.js storefront with Stripe integration and server-side rendering for SEO.",
-      technologies: ["React", "Next.js", "Stripe", "Tailwind CSS", "SSR"],
+      title: " Netflix Clone",
+      description: "A fully responsive streaming web application inspired by Netflix. Built with modern front-end technologies, it features user authentication, movie browsing by genre, and dynamic content pulled from a movie API. Users can sign in, view trailers, and explore a sleek interface mimicking the Netflix experience.",
+      technologies: ["React","CSS", "Firebase Authentication", "TMDB API integration"],
       links: {
         github: "https://github.com/chrisprince-ic",
         live: "#"
@@ -30,9 +30,9 @@ const ProjectsSection = () => {
       image: "https://placehold.co/800x500/112240/64FFDA?text=E-commerce"
     },
     {
-      title: "Admin Dashboard",
-      description: "Created a data-driven dashboard for client analytics using Tailwind CSS and React Charts, deployed on AWS Amplify.",
-      technologies: ["React", "Tailwind CSS", "AWS Amplify", "React Charts", "REST API"],
+      title: "YouTube Clone",
+      description: "A video streaming platform mimicking the YouTube interface and functionality. This project allows users to search for videos, view detailed video pages, and explore channels. It utilizes the YouTube Data API and modern React design patterns.",
+      technologies: ["React", "CSS", "YouTube Data API integration"],
       links: {
         github: "https://github.com/chrisprince-ic",
         live: "#"
@@ -41,9 +41,9 @@ const ProjectsSection = () => {
       image: "https://placehold.co/800x500/112240/64FFDA?text=Dashboard"
     },
     {
-      title: "Podcast Hosting Platform",
-      description: "Designed a custom podcast platform with dynamic routing, episode streaming, and user feedback collection.",
-      technologies: ["React", "Next.js", "AWS S3", "Tailwind CSS", "Node.js"],
+      title: "Task Manager App",
+      description: "A personal productivity tool to manage daily tasks and stay organized. Users can create, edit, and delete tasks, set priorities, and track completion. Built with a clean and intuitive UI, it's optimized for both desktop and mobile use.",
+      technologies: ["React", "CSS", "CRUD task functionality", "Priority tagging and status tracking", "Local storage or Firebase integration"],
       links: {
         github: "https://github.com/chrisprince-ic",
         live: "#"
