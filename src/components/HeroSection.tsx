@@ -15,7 +15,7 @@ const HeroSection = () => {
         </h1>
         
         <h2 className="animate-fade-in text-3xl md:text-5xl lg:text-6xl font-bold text-slate mb-8" style={{animationDelay: '0.4s'}}>
-          I build things for the web.
+          I am a Web Developer.
         </h2>
         
         <div className="animate-fade-in" style={{animationDelay: '0.5s'}}>
